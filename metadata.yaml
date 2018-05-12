@@ -1,0 +1,40 @@
+_repo: La-boucle-de-cheveux-enlev-ePo-me-h-ro-comique-de-Monsieur-Pope_25680
+_version: 0.1.0
+alternative_title: Rape of the lock. French
+contributor:
+  translator:
+    agent_name: Caylus, Madame de (Marthe-Marguerite)
+    alias: Caylus, Marthe-Marguerite Le Valois de Villette de Murçay, comtesse de
+    birthdate: 1673
+    deathdate: 1729
+    gutenberg_agent_id: '31501'
+    url: http://www.gutenberg.org/2009/agents/31501
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pope, Alexander
+    alias: Barnivelt, Esdras
+    birthdate: 1688
+    deathdate: 1744
+    gutenberg_agent_id: '907'
+    url: http://www.gutenberg.org/2009/agents/907
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
+description: ''
+gutenberg_bookshelf: FR Humour
+gutenberg_issued: '2008-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25680'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry -- Early works to 1800'
+- !lcc 'PR'
+title: 'La boucle de cheveux enlevée
+
+  Poème héroïcomique de Monsieur Pope'
+url: http://www.gutenberg.org/ebooks/25680
